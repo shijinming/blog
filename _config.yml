@@ -94,7 +94,7 @@ algolia:
     - excerpt:strip
     - gallery
     - permalink
-    - photos
+    - photos 
     - slug
     - tags
     - title
